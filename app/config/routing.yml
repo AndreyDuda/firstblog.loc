@@ -1,3 +1,7 @@
+duda_blog:
+    resource: "@DudaBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation

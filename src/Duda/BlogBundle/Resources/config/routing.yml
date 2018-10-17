@@ -1,0 +1,3 @@
+duda_blog_homepage:
+    path:     /
+    defaults: { _controller: DudaBlogBundle:Default:index }
