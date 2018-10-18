@@ -2,6 +2,3 @@ duda_blog_post:
     resource: "@DudaBlogBundle/Resources/config/routing/post.yml"
     prefix:   /post
 
-duda_blog_homepage:
-    path:     /
-    defaults: { _controller: DudaBlogBundle:Default:index }
